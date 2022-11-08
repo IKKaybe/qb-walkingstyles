@@ -42,3 +42,7 @@ Inside qb-spawn/client/client.lua - `PostSpawnPlayer()` after
 
 # Command
 ```/walking-style``` opens menu to change current walking style
+
+# Help & Support
+
+Join my [Discord](https://discord.gg/D4CFrXXATn) for support and help setting this up
